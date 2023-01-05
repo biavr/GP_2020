@@ -1,0 +1,24 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.08.2020 09:31:32
+
+newmtl wire_006135113
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.0235 0.5294 0.4431
+	Kd 0.0235 0.5294 0.4431
+	Ks 0.3500 0.3500 0.3500
+	map_Kd T_map_Fence00001_BaseColor.png
+
+newmtl wire_225198087
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8824 0.7765 0.3412
+	Kd 0.8824 0.7765 0.3412
+	Ks 0.3500 0.3500 0.3500
+map_Kd T_map_Fence00001_BaseColor.png
